@@ -1,3 +1,7 @@
+<div align=center>
+<img src="https://github.com/jhj04/jhj04/blob/main/A4%20-%201.svg"/>
+</div>
+
 ## 안녕하세요 👋
 
 <!--
